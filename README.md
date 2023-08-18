@@ -3,7 +3,7 @@
 
 - I've Created Dice game as my first project using HTML, CSS,JS [Dice Game](https://roll-of-fortune.netlify.app/)
 
-- I'm currently learning React.js a frontend framework **React.js**
+- I'm currently learning React.js a frontend framework
 
 - Created and Guess my number website as personal project [Guess My Number](https://guess-my-numbert.netlify.app/)
 
