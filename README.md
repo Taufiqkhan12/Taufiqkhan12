@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taufiq Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An enthusiastic frontend developer hailing from India, eager to excel in mastering the MERN stack.</h3>
 
-<p align="left"> <a href="https://twitter.com/taufiqk93191287" target="blank"><img src="https://img.shields.io/twitter/follow/taufiqk93191287?logo=twitter&style=for-the-badge" alt="taufiqk93191287" /></a> </p>
+- I've Created Dice game as my first project using HTML, CSS,JS [Dice Game](https://roll-of-fortune.netlify.app/)
 
-- 🌱 I’m currently learning **React.js**
+- I'm currently learning React.js a frontend framework **React.js**
+
+- Created and Guess my number website as personal project [Guess My Number](https://guess-my-numbert.netlify.app/)
 
 - 📫 How to reach me **ktaufiq913@gmail.com**
 
