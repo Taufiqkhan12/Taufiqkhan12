@@ -5,7 +5,7 @@
 
 - I'm currently learning React.js a frontend framework
 
-- Created and Guess my number website as personal project [Guess My Number](https://guess-my-numbert.netlify.app/)
+- Created a Guess my number website as personal project [Guess My Number](https://guess-my-numbert.netlify.app/)
 
 - 📫 How to reach me **ktaufiq913@gmail.com**
 
