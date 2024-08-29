@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufiq Khan</h1>
-<h3 align="center">An enthusiastic frontend developer hailing from India, eager to excel in mastering the MERN stack.</h3>
+<h3 align="center">An enthusiastic Backend developer hailing from India, eager to excel in mastering the MERN stack.</h3>
 
 - I've Created Dice game as my first project using HTML, CSS,JS [Dice Game](https://roll-of-fortune.netlify.app/)
 
